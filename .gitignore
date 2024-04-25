@@ -1,0 +1,8 @@
+#we want vs solution as this is the "only" tool
+#(we don't want hidden scripts when someone makes)
+
+#mod disable file (yes, mods are marked as "disabled" by an empty file)
+*.it
+
+# Visual Studio cache directory
+*.vs/
