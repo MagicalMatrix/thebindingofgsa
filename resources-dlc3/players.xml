@@ -5,10 +5,12 @@
           nameimage="PlayerName_01_Isaac.png" 
           portrait="PlayerPortrait_Isaac.png" skinColor="-1" pocketActive="105"
 		  birthright="#ISAAC_BIRTHRIGHT" />
+<!--
 	<player id="1" name="#MAGDALENE_NAME" skin="Character_002_Magdalene.png" costume="7" hp="8" items="45" achievement="1"
           nameimage="PlayerName_02_Magdalene.png"
           portrait="PlayerPortrait_Magdalene.png" skinColor="-1"
 		  birthright="#MAGDALENE_BIRTHRIGHT" />
+
 	<player id="2" name="#CAIN_NAME" skin="Character_003_Cain.png" costume="8" hp="4" keys="1" items="46" achievement="2"
           nameimage="PlayerName_03_Cain.png" 
           portrait="PlayerPortrait_Cain.png" skinColor="-1"
@@ -82,7 +84,6 @@
 		<hair gfx="Character_009_EdenHair39.png" />
 		<hair gfx="Character_009_EdenHair40.png" />
 	</player>
-	<!-- starting item was D4 (284), now Eternal D6 (609) -->
 	<player id="10" name="#THE_LOST_NAME" skin="Character_012_TheLost.png" hp="0" armor="1" coins="1" items="609" achievement="82"
           nameimage="PlayerName_12_TheLost.png" 
           portrait="PlayerPortrait_TheLost.png" skinColor="0"
@@ -115,7 +116,6 @@
           nameimage="PlayerName_16_TheForgotten.png" 
           portrait="PlayerPortrait_TheForgotten.png" skinColor="2" costumeSuffix="forgottensoul"
 		  birthright="#THE_SOUL_BIRTHRIGHT" />
-<!-- REPENTANCE BEGIN -->
 	<player id="18" name="#BETHANY_NAME" skin="Character_001x_Bethany.png" costume="51" items="584" hp="6" armor="4" achievement="404"
           nameimage="PlayerName_01x_Bethany.png" 
           portrait="PlayerPortrait_Bethany.png" skinColor="-1"
@@ -209,5 +209,5 @@
           nameimage="PlayerName_16_TheForgotten.png" 
           portrait="PlayerPortrait_TheForgotten_b.png" skinColor="2" costumeSuffix="forgottensoul"
 		  birthright="#THE_FORGOTTEN_B_BIRTHRIGHT" />
-<!-- REPENTANCE END -->
+-->
 </players>

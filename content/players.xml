@@ -1,0 +1,9 @@
+<players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
+  <player hp="8" items="721" pocketitems="61" keys="1" name="Kimel"
+	nameimage="playername_arteon.png" portrait="playerportrait_arteon.png" skin="character_arteon.png" skinColor="-1"
+	birthright="Samo sie naprawilo"/>
+  <player hp="0" keys="1" name="Kimel"
+	nameimage="playername_arteon_b.png" portrait="playerportrait_arteon_b.png" skin="character_arteon_b.png" skinColor="-1"
+	bSkinParent="Kimel"
+	birthright="Sentient tears"/>
+</players>
