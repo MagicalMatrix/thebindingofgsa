@@ -1,0 +1,87 @@
+To do list po id itemów żeby wiedzieć co gdzie szukać w oryginałach
+
+UNITY DEV:
+
+t146 devil's crown:
+asset store darmowe assety
+grafika trinket: coś co się kojarzy z asset storem z unity
+
+GODOT DEV:
+
+
+PREZES:
+281 punching bag:
+nazwa + opis + transformacja
+grafika item: kukła janka (stojaca)
+grafika familiar (ma "skakać" na animacji ruchu)
+
+136 best friend:
+nazwa + opis + transformacja
+grafika item: kukła janka (lezacza)
+grafika familiar: przekopiować te z itemu tylko w wiekszej skali
+
+257 fire mind:
+nazwa + opis + transformacja
+grafika item: "rózga prezesa" deska z kukły podpalona
+
+289 red candle:
+nazwa + opis + transformacja
+grafika item: rózga prezesa (ta sama co wcześniej)
+
+164 the candle:
+nazwa + opis + transformacja
+grafika item: rózga prezesa (niebieski ogień)
+
+256 hot bombs:
+bomby prezesa gorące (:
+grafika item: jakieś połączenie bomby z kukłą prezesa
+grafika bomba: kukła przesa zamiast bomby
+
+223 pyromaniac:
+pomysł (coś z uwielbieniem kukły)
+
+
+616 bird's eye:
+pomysł
+nazwa + opis + transformacja
+
+295 ghost pepper:
+pomysł
+nazwa + opis + transformacja
+
+424 sack head
+kukłogłowy
+grafika item: głowa kukły prezesa (ale taka do noszenia z otworami na oczy)
+grafika kostium: Isaac nosi kukłę prezesa jakby był maskotką
+
+591 venus:
+aura prezesa jak mu się wydaje
+grafika item: (brak pomysłu)
+
+554 2spooky:
+aura prezesa jak jest na prawde
+grafika item: (brak pomysłu)
+
+INNE:
+664: binge eater:
+Dieta Paweł Król
+grafika item: profilowe kimela
+napisać kod podmieniajacy grafiki itemów z jedzeniem na profilowe kimela
+a nazwę i opis na: Kimel hmmm pyszne
+
+721 TMTRAINER:
+grafika item: DDD (dosłownie 3 litery D)
+(albo lepsze napis "public int dupa" trzeba zobaczyć czy będzie czytelne)
+napisać kody podmieniający nazwy i opisy itemów na dupa dupadupadupadupa
+
+395: tech x:
+
+grafika item: quest 3
+grafika kostium: Isaac nosi quest 3 na łbie
+
+579 spirit sword:
+gibon zakazana technika
+grafika item: skoczek z deluxe ski jump (wycinany)
+grafika miecz: to samo
+grafika miecz projectile: to samo
+
