@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active id="0" name="Mandelbrot" description="Jest piekny" gfx="matrix_mandelbrot.png" quality="2" tags="quest" hidden="true" maxcharges="0" cooldown="30" />
+</items>

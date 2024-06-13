@@ -1,24 +1,26 @@
 local Enums = {}
 
 Enums.Characters = {
-	KIMEL = 0,
-	PATRYK = 2,
-	KAMIL = 8,
-	PUKASZ = 17,
-	LAWEL = 18
+	KIMEL = Isaac.GetPlayerTypeByName("Kimel", false),
+	PATRYK = Isaac.GetPlayerTypeByName("Patryk", false),
+	DAWID = Isaac.GetPlayerTypeByName("Dawid", false),
+	AGU = Isaac.GetPlayerTypeByName("Agu", false),
+	KAMIL = Isaac.GetPlayerTypeByName("Kamil", false),
+	FRANEK = Isaac.GetPlayerTypeByName("Franek", false),
+	MICHAL = Isaac.GetPlayerTypeByName("Michal", false),
+	TYMEK = Isaac.GetPlayerTypeByName("Tymek", false),
+	MAJKEL = Isaac.GetPlayerTypeByName("Majkel", false),
+	WOJTEK = Isaac.GetPlayerTypeByName("Wojtek", false),
+	HIKKOF = Isaac.GetPlayerTypeByName("Hikkof", false)
 }
---DAWID
---MAJKEL
---MICHAL
---KAMIL
---ADAM
---PAWEL
---AGU
---TYMEK
---FRANEK
---JANEK
---WOJTEK
---HIKOFF
+
+Enums.Items = {
+	MATRIX_MANDELBROT = Isaac.GetItemIdByName("matrix_mandelbrot")
+}
+
+Enums.Sounds = {
+	HIKKOF_HURT = Isaac.GetSoundIdByName("HikkofHurt")
+}
 
 --it is made to easier identify wheather ludovico
 --is regular tear or brimstone or etc. within code

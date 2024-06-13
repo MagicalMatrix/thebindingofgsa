@@ -58,6 +58,7 @@ function Kimel.PrePickupMorph(_, pickup)
 	end
 end
 
+--upgrade this to check if is kimel
 function Kimel.PostPickupMorph(_, pickup)
 	local player = game:GetPlayer(0);
 	if noTmTrainer == true then

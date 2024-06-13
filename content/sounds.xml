@@ -1,0 +1,5 @@
+<sounds root="sounds/">
+	<sound name="HikkofHurt">
+		<sample weight="1" path="hikkof_hurt_0.wav" />
+	</sound>
+</sounds>

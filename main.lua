@@ -10,13 +10,16 @@ local mod = GSA_MOD
 local postPickupInit = require("scripts.callbacks.post_pickup_init")
 local postPickupMorph = require("scripts.callbacks.post_pickup_morph");
 local prePickupMorph = require("scripts.callbacks.pre_pickup_morph");
+local postPlayerUpdate = require("scripts.callbacks.post_player_update");
 
 --callbacks init:
 postPickupInit(mod)
 postPickupMorph(mod)
 prePickupMorph(mod)
+postPlayerUpdate(mod)
 
 local Kimel = require("scripts.characters.kimel")
+local Hikkof = require("scripts.characters.hikkof")
 
 --mod:AddCallback(ModCallbacks.MC_POST_PICKUP_INIT, Kimel.PostPickupInit)
 
