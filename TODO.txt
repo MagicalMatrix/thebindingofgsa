@@ -85,3 +85,32 @@ grafika item: skoczek z deluxe ski jump (wycinany)
 grafika miecz: to samo
 grafika miecz projectile: to samo
 
+
+ksiazki:
+monster manuel
+zeszyt do filozofii
+istota konia
+
+book of shadows
+zeszyt do logiki
+przetrwasz
+
+anarchist cookbook
+zeszyt do javy
+anarchia
+
+revelations
+zeszyt do numerkow
+ochrona przed egzaminem
+
+7 sins
+zeszyt do algorytmow
+alg. genetyczny to nie prog. genetyczne
+
+book of belial
+zeszyt do fizyki
+(nie zdarzylem zapisac)
+
+book of virtuoses
+pusty zeszyt
+twoje wlasne notatki
