@@ -1,20 +1,20 @@
 <players nameimageroot="gfx/ui/boss/" portraitroot="gfx/ui/stage/" root="gfx/characters/costumes/">
-  <player name="Kimel" hp="6" items="721" pocketitems="61"
+  <player name="Kimel" hp="6" items="721" pocketActive="105"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Patryk" hp="6"
+	<player name="Patryk" hp="4" items="245"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Dawid" hp="6"
+	<player name="Dawid" hp="6" items="402"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Adam" hp="4" armor="2"
+	<player name="Adam" hp="4" armor="2" pocketActive=" Mandelbrot "
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Agu" hp="4" armor="2"
+	<player name="Agu" hp="6" armor="0"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Kamil" hp="6"
+	<player name="Kamil" hp="0" armor="8" items="308,178"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
 	<player name="Franek" hp="6"
@@ -32,7 +32,13 @@
 	<player name="Wojtek" hp="6"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
-	<player name="Hikkof" hp="6"
+	<player name="Hikkof" hp="2"
+	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
+	birthright="Samo sie naprawilo"/>
+	<player name="Pawel" hp="2" black="4"
+	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
+	birthright="Samo sie naprawilo"/>
+	<player name="Janek" hp="4" black="2" items ="237,554"
 	nameimage="PlayerName_01_Isaac.png" portrait="PlayerPortrait_01_Isaac.png" skin="Character_001_Isaac.png" skinColor="-1"
 	birthright="Samo sie naprawilo"/>
 	<!--bside characters-->

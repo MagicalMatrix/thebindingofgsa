@@ -13,7 +13,7 @@ function Hikkof.PostPlayerUpdate(_, player)
 			--do fake damage
 			player:TakeDamage(0, DamageFlag.DAMAGE_FAKE, EntityRef(player), 0)
 			--and play hikkof sound
-			Isaac.ConsoleOutput(tostring(Enums.Sounds.HikkofHurt))
+			--Isaac.ConsoleOutput(tostring(Enums.Sounds.HikkofHurt))
 			sfx:Play(Enums.Sounds.HIKKOF_HURT, 1, 2, false, 1, 0)
 			--sfx:Play(Enums.Sounds.HikkofHurt)
 			HikkofTimer = math.random(180, 300)

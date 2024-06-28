@@ -11,11 +11,13 @@ Enums.Characters = {
 	TYMEK = Isaac.GetPlayerTypeByName("Tymek", false),
 	MAJKEL = Isaac.GetPlayerTypeByName("Majkel", false),
 	WOJTEK = Isaac.GetPlayerTypeByName("Wojtek", false),
-	HIKKOF = Isaac.GetPlayerTypeByName("Hikkof", false)
+	HIKKOF = Isaac.GetPlayerTypeByName("Hikkof", false),
+	PAWEL = Isaac.GetPlayerTypeByName("Pawel", false),
+	JANEK = Isaac.GetPlayerTypeByName("Janek", false)
 }
 
 Enums.Items = {
-	MATRIX_MANDELBROT = Isaac.GetItemIdByName("matrix_mandelbrot")
+	MATRIX_MANDELBROT = Isaac.GetItemIdByName(" Mandelbrot ")
 }
 
 Enums.Sounds = {
@@ -30,6 +32,12 @@ Enums.LudoVariant = {
 	KNIFE = 2,
 	BRIMSTONE_RING = 3,
 	TECHX_RING = 4
+}
+
+Enums.SpecialStats = {
+	JANEK_AFFINITY_MULT = 1.4,
+	JANEK_MOVE_THRESHOLD = 0.4,
+	PATRYK_AURA_MULT = 0.5
 }
 
 return Enums

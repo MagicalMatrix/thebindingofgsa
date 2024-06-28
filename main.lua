@@ -11,15 +11,25 @@ local postPickupInit = require("scripts.callbacks.post_pickup_init")
 local postPickupMorph = require("scripts.callbacks.post_pickup_morph");
 local prePickupMorph = require("scripts.callbacks.pre_pickup_morph");
 local postPlayerUpdate = require("scripts.callbacks.post_player_update");
+local postPlayerInit = require("scripts.callbacks.post_player_init");
+local postTearUpdate = require("scripts.callbacks.post_tear_update");
+local postProjectileInit = require("scripts.callbacks.post_projectile_init");
+local useItem = require("scripts.callbacks.use_item");
 
 --callbacks init:
 postPickupInit(mod)
 postPickupMorph(mod)
 prePickupMorph(mod)
+--postPlayerInit(mod)
 postPlayerUpdate(mod)
+postTearUpdate(mod)
+postProjectileInit(mod)
+useItem(mod)
 
-local Kimel = require("scripts.characters.kimel")
-local Hikkof = require("scripts.characters.hikkof")
+--local Kimel = require("scripts.characters.kimel")
+--local Hikkof = require("scripts.characters.hikkof")
+--local Adam = require("scripts.characters.adam")
+--local Patryk = require("scripts.characters.patryk")
 
 --mod:AddCallback(ModCallbacks.MC_POST_PICKUP_INIT, Kimel.PostPickupInit)
 
